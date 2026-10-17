@@ -2,6 +2,7 @@
 My name is Dzmitry.
 
 I used to be a medical professional.
+I work as anesthsiologist and intensive care specialist.
 <!--
 **Dibar110/Dibar110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
