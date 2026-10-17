@@ -1,6 +1,7 @@
 ## Hi there 👋
 My name is Dzmitry.
-I used to be a medical professiona.
+
+I used to be a medical professional.
 <!--
 **Dibar110/Dibar110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
