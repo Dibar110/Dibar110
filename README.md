@@ -5,6 +5,8 @@ I used to be a medical professional.
 I work as anesthsiologist and intensive care specialist.
 
 I'm passionate about programming and computer networking.
+
+One issue is how to unite my hobbies with my work in healthcare and my experience in that field?
 <!--
 **Dibar110/Dibar110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
